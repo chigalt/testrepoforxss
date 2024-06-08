@@ -1,3 +1,3 @@
 ```math
-\ce{$&#x5C;scrip{x0000}$}
+\ce{$&#x5C;unicode[abc]{x0000}$}
 ```
