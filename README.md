@@ -1,3 +1,3 @@
 ```math
-\ce{h20}
+\ce{scrip}
 ```
