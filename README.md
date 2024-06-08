@@ -1,3 +1,3 @@
 ```math
-\ce{scrip}
+\ce{$&#x5C;scrip$}
 ```
