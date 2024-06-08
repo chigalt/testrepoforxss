@@ -1,3 +1,3 @@
 ```math
-\ce{$&#x5C;unicode[<script>alert("yellow")</script>]{x0000}$}
+\ce{$&#x5C;unicode[goombafont"]{x0000}$}
 ```
